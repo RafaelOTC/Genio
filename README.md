@@ -121,6 +121,27 @@ describe objective → orchestrate → review → deliver
 
 ---
 
+## Commercial / proprietary software
+
+GENIO is being developed as a **commercial proprietary AI product**.
+
+The production source code is intentionally private to protect the product's intellectual property and commercially sensitive implementation.
+
+In particular, internal elements such as:
+
+- orchestration and routing logic
+- model-selection rules
+- agent coordination
+- prompts and evaluation flows
+- provider adapters
+- executor / autobuilder implementation
+- reliability and fallback mechanisms
+- infrastructure and security configuration
+
+are considered **proprietary product IP** and are therefore not publicly distributed.
+
+This repository is a **public product and technical showcase**, not an open-source release. Its purpose is to explain the concept, architecture direction and product capabilities without exposing the implementation that creates the commercial value.
+
 ## Creator & socials
 
 **Trifa Rafael** — Web Developer & Digital Product Builder
@@ -135,7 +156,7 @@ describe objective → orchestrate → review → deliver
 
 This repository is a **public product showcase for GENIO**.
 
-The real source code, orchestration logic, model-routing rules, prompts, provider configuration, secrets and private implementation details remain private.
+The real source code, orchestration logic, model-routing rules, prompts, provider configuration, secrets and private implementation details intentionally remain private because they are proprietary product IP.
 
 <div align="center">
 
