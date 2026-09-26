@@ -1,0 +1,13 @@
+{
+  "name": "GENIO",
+  "status": "In Development",
+  "type": "Multi-model AI orchestration platform",
+  "creator": {
+    "name": "Trifa Rafael",
+    "website": "https://trifarafael.com",
+    "github": "https://github.com/RafaelOTC"
+  },
+  "portfolio_url": "https://trifarafael.com/projects/genio-ai-orchestrator",
+  "source_code_public": false,
+  "summary": "Multi-model AI orchestrator that routes complex tasks across models and specialized agents, coordinates execution and reviews results."
+}
