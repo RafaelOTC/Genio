@@ -121,6 +121,16 @@ describe objective → orchestrate → review → deliver
 
 ---
 
+## Creator & socials
+
+**Trifa Rafael** — Web Developer & Digital Product Builder
+
+- Website: https://trifarafael.com
+- Instagram: https://www.instagram.com/trifa.rafael/
+- Facebook: https://www.facebook.com/profile.php?id=100077873351820
+- LinkedIn: https://www.linkedin.com/in/rafael-trifa-0319353a9/
+- GitHub: https://github.com/RafaelOTC
+
 ## Repository notice
 
 This repository is a **public product showcase for GENIO**.
