@@ -5,7 +5,13 @@
   "creator": {
     "name": "Trifa Rafael",
     "website": "https://trifarafael.com",
-    "github": "https://github.com/RafaelOTC"
+    "github": "https://github.com/RafaelOTC",
+    "socials": {
+      "instagram": "https://www.instagram.com/trifa.rafael/",
+      "facebook": "https://www.facebook.com/profile.php?id=100077873351820",
+      "linkedin": "https://www.linkedin.com/in/rafael-trifa-0319353a9/",
+      "github": "https://github.com/RafaelOTC"
+    }
   },
   "portfolio_url": "https://trifarafael.com/projects/genio-ai-orchestrator",
   "source_code_public": false,
